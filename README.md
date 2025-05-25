@@ -3,7 +3,7 @@ GPSafety is a Geographic Information System (GIS) project built in C++ that high
 
 ![GPSafety](https://github.com/user-attachments/assets/c467b640-9c80-4920-adc8-99503e42121e)
 
-##Features
+## Features
 The project was developed in four milestone phases, each building on the previous:
 - **Milestone 1: Data Structures**
   - Built efficient map-loading functions from OpenStreetMap data.
@@ -16,11 +16,11 @@ The project was developed in four milestone phases, each building on the previou
   - Solved multi-stop delivery with simulated annealing + 2-opt optimization.
   - ![gpsDirection](https://github.com/user-attachments/assets/25104513-9361-4b5b-be48-60790122c789)
 
-##Safety Alerts
+## Safety Alerts
 ![gpsSafe](https://github.com/user-attachments/assets/93e94ebb-c9cf-4ad9-92b5-0e99ce584a68)
 Real-time crime alerts pulled hourly from the TPS Calls API are shown directly on the map as hotspot overlays. R. Durant, “Tpscalls.live,” tpscalls.live, https://www.tpscalls.live/ (accessed Mar. 10, 2025).
 
-##Future Development
+## Future Development
 - **Live Route Sharing**
   - Allow users to share their active path with friends/family in real-time.
 - **Global Crime Integration**
