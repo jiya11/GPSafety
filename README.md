@@ -9,7 +9,9 @@ The project was developed in four milestone phases, each building on the previou
   - Built efficient map-loading functions from OpenStreetMap data.
 - **Milestone 2: Graphics**
   - Designed an interactive UI using GTK and UofT's EZGL renderer, with a focus on simplicity, clarity and quick access to safety features.
-  - ![gpsDarkMode](https://github.com/user-attachments/assets/543b183b-15d0-42e9-bf01-913d6232987e) ![gpsHealth](https://github.com/user-attachments/assets/d2e06894-c03e-46e5-a5c5-010a70a15e8e)
+  - | Dark Mode View | Health & Safety Points of Interests |
+|--------|---------|
+| ![gpsDarkMode](https://github.com/user-attachments/assets/543b183b-15d0-42e9-bf01-913d6232987e) | ![gpsHealth](https://github.com/user-attachments/assets/d2e06894-c03e-46e5-a5c5-010a70a15e8e) |
 - **Milestone 3: Path Finding**
   - Used A* algorithm to compute shortest paths between intersections.
 - **Milestone 4: Courier Optimization**
