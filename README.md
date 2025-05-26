@@ -13,7 +13,7 @@ The project was developed in four milestone phases, each building on the previou
       <img src="https://github.com/user-attachments/assets/543b183b-15d0-42e9-bf01-913d6232987e" width="500"/>
 
     - Customized icons to enhance visual clarity and user recognition
-    - 
+      
       <img src="https://github.com/user-attachments/assets/fb3952c7-b0ac-43f4-98ef-83ccefa0a88a" width="250"/>
 
     - Point of interest (POI) buttons for quick access to notable locations
@@ -51,6 +51,7 @@ GPSafety is designed with user safety as a top priority, offering several featur
     <img src="https://github.com/user-attachments/assets/f7eae640-cf56-41fc-a406-c2de55b06bdf" width="500"/>
   
 - A **safety toggle button** allows users to turn hotspot visibility on or off, giving them control over when they want to view crime data.
+  
   <img src="https://github.com/user-attachments/assets/98998115-1816-45fb-8ee8-81447bd7191f" width="500"/>
   
 - **Interactive crime icons** let users click for detailed information about individual incidents, including the type of crime, date, time, location, and data source.
@@ -62,7 +63,7 @@ GPSafety is designed with user safety as a top priority, offering several featur
 - When users click on or near any intersection, the system automatically displays the nearest pharmacy
   - Chosen because pharmacies are more widely distributed across the city than other emergency services, ensuring more consistent access to a nearby safety location.
 
-<img src="https://github.com/user-attachments/assets/ad945d20-f9db-4f7b-9435-209757d7f591" width="500"/>
+  <img src="https://github.com/user-attachments/assets/ad945d20-f9db-4f7b-9435-209757d7f591" width="500"/>
 
 ## Future Development
 - **Live Route Sharing**
