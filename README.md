@@ -13,6 +13,7 @@ The project was developed in four milestone phases, each building on the previou
       <img src="https://github.com/user-attachments/assets/543b183b-15d0-42e9-bf01-913d6232987e" width="500"/>
 
     - Customized icons to enhance visual clarity and user recognition
+    - 
       <img src="https://github.com/user-attachments/assets/fb3952c7-b0ac-43f4-98ef-83ccefa0a88a" width="250"/>
 
     - Point of interest (POI) buttons for quick access to notable locations
@@ -29,7 +30,7 @@ The project was developed in four milestone phases, each building on the previou
       <img src="https://github.com/user-attachments/assets/3ca572ed-b47d-4bdb-927c-a1405137afa9" width="500" style="display:inline-block; margin-right:5px;" />  <img src="https://github.com/user-attachments/assets/66d43dfe-46dc-4dda-b564-a84968a5c139" width="500" style="display:inline-block; margin-right: 5px;" />  <img src="https://github.com/user-attachments/assets/f72b6f73-d0c9-48ac-92be-fa8b96fcc5cd" width="500" style="display:inline-block; margin-left:5px;" />
       
     - Displays easy-to-follow driving directions from one point to another
-      <img src="https://github.com/user-attachments/assets/d6fd492b-8fd6-4259-b9c9-7a966821fef4" width="400"/>
+      <img src="https://github.com/user-attachments/assets/d6fd492b-8fd6-4259-b9c9-7a966821fef4" width="500"/>
 
     - Map scale included for spatial reference
 - **Milestone 3 & 4: Path Finding and Courier Optimization**
@@ -47,20 +48,21 @@ The project was developed in four milestone phases, each building on the previou
 ## Safety Alerts
 GPSafety is designed with user safety as a top priority, offering several features to help users stay aware and make informed decisions:
 - **Real-time crime alerts** are pulled hourly from the TPSCalls API and displayed as hotspot overlays directly on the map, highlighting areas with recent activity.
-  ![CrimeHotspot](https://github.com/user-attachments/assets/f7eae640-cf56-41fc-a406-c2de55b06bdf)
+    <img src="https://github.com/user-attachments/assets/f7eae640-cf56-41fc-a406-c2de55b06bdf" width="500"/>
   
 - A **safety toggle button** allows users to turn hotspot visibility on or off, giving them control over when they want to view crime data.
-  ![SafetyButton](https://github.com/user-attachments/assets/98998115-1816-45fb-8ee8-81447bd7191f)
+  <img src="https://github.com/user-attachments/assets/98998115-1816-45fb-8ee8-81447bd7191f" width="500"/>
   
 - **Interactive crime icons** let users click for detailed information about individual incidents, including the type of crime, date, time, location, and data source.
-  ![gpsSafe](https://github.com/user-attachments/assets/93e94ebb-c9cf-4ad9-92b5-0e99ce584a68)
+  <img src="https://github.com/user-attachments/assets/93e94ebb-c9cf-4ad9-92b5-0e99ce584a68" width="500"/>
   
 - The Points of Interest (POI) menu includes a dedicated **Health & Emergency** category, making it easy to locate nearby hospitals, police stations, fire departments, pharmacies etc.
-  ![Health EmergButton](https://github.com/user-attachments/assets/62b28054-f552-4a82-9ecd-145bbb0a25dc)
+  <img src="https://github.com/user-attachments/assets/62b28054-f552-4a82-9ecd-145bbb0a25dc" width="500"/>
   
 - When users click on or near any intersection, the system automatically displays the nearest pharmacy
   - Chosen because pharmacies are more widely distributed across the city than other emergency services, ensuring more consistent access to a nearby safety location.
-![ClosePharmacy](https://github.com/user-attachments/assets/ad945d20-f9db-4f7b-9435-209757d7f591)
+
+<img src="https://github.com/user-attachments/assets/ad945d20-f9db-4f7b-9435-209757d7f591" width="500"/>
 
 ## Future Development
 - **Live Route Sharing**
