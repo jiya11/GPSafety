@@ -26,7 +26,7 @@ The project was developed in four milestone phases, each building on the previou
 
     - Search bar with autocomplete for streets, intersections, and routes
 
-      <img src="https://github.com/user-attachments/assets/3ca572ed-b47d-4bdb-927c-a1405137afa9" width="200" style="display:inline-block; margin-right:5px;" />  <img src="https://github.com/user-attachments/assets/66d43dfe-46dc-4dda-b564-a84968a5c139" width="200" style="display:inline-block; margin-right: 5px;" />  <img src="https://github.com/user-attachments/assets/f72b6f73-d0c9-48ac-92be-fa8b96fcc5cd" width="200" style="display:inline-block; margin-left:5px;" />
+      <img src="https://github.com/user-attachments/assets/3ca572ed-b47d-4bdb-927c-a1405137afa9" width="350" style="display:inline-block; margin-right:5px;" />  <img src="https://github.com/user-attachments/assets/66d43dfe-46dc-4dda-b564-a84968a5c139" width="350" style="display:inline-block; margin-right: 5px;" />  <img src="https://github.com/user-attachments/assets/f72b6f73-d0c9-48ac-92be-fa8b96fcc5cd" width="350" style="display:inline-block; margin-left:5px;" />
       
     - Displays easy-to-follow driving directions from one point to another
     <img src="https://github.com/user-attachments/assets/d6fd492b-8fd6-4259-b9c9-7a966821fef4" width="400"/>
