@@ -10,7 +10,7 @@ The project was developed in four milestone phases, each building on the previou
 - **Milestone 2: Graphics**
   - Designed an interactive user interface using GTK and UofT's EZGL renderer, with a focus on simplicity, clarity and quick access to safety features.
     - Colour-coded elements and dark mode support for improved visibility
-    <img src="https://github.com/user-attachments/assets/543b183b-15d0-42e9-bf01-913d6232987e" width="400"/>
+    <img src="https://github.com/user-attachments/assets/543b183b-15d0-42e9-bf01-913d6232987e" width="400"/><br>
     - Customized icons to enhance visual clarity and user recognition
     <img src="https://github.com/user-attachments/assets/fb3952c7-b0ac-43f4-98ef-83ccefa0a88a" width="200"/>
     - Point of interest (POI) buttons for quick access to notable locations
