@@ -14,14 +14,19 @@ The project was developed in four milestone phases, each building on the previou
 
     - Customized icons to enhance visual clarity and user recognition
     <img src="https://github.com/user-attachments/assets/fb3952c7-b0ac-43f4-98ef-83ccefa0a88a" width="200"/>
+
     - Point of interest (POI) buttons for quick access to notable locations
     <img src="https://github.com/user-attachments/assets/d2e06894-c03e-46e5-a5c5-010a70a15e8e" width="400"/>
+
     - Hamburger menu for zooming, switching cities, and accessing the help menu
     <img src="https://github.com/user-attachments/assets/f35633eb-20a6-4447-932e-63b7398c0327" width="400"/>
+
     - Ability to switch between different cities
     <img src="https://github.com/user-attachments/assets/8efbddb6-60ee-4e0d-b2f1-e7d7ed94c065" width="400"/>
+
     - Search bar with autocomplete for streets, intersections, and routes
       <img src="https://github.com/user-attachments/assets/3ca572ed-b47d-4bdb-927c-a1405137afa9" width="200" style="display:inline-block; margin-right:5px;" /><img src="https://github.com/user-attachments/assets/66d43dfe-46dc-4dda-b564-a84968a5c139" width="200" style="display:inline-block; margin-right: 5px;" /><img src="https://github.com/user-attachments/assets/f72b6f73-d0c9-48ac-92be-fa8b96fcc5cd" width="200" style="display:inline-block; margin-left:5px;" />
+      
     - Displays easy-to-follow driving directions from one point to another
     <img src="https://github.com/user-attachments/assets/d6fd492b-8fd6-4259-b9c9-7a966821fef4" width="400"/>
     - Map scale included for spatial reference
