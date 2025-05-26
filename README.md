@@ -1,5 +1,5 @@
 # GPSafety
-GPSafety is a Geographic Information System (GIS) project built in C++ that highlights crime hotspots in Toronto using OpenStreetMap and real-time data from the Toronto Police Service API. Unlike conventional navigation tools that optimize for speed, GPSafety prioritizes safety by guiding users away from high-risk areas.
+GPSafety is a Geographic Information System (GIS) project developed in C++ that also highlights crime hotspots across Toronto. It is built off the OpenStreetMap Database via their OSMDatabaseAPI.h and StreetsDatabaseAPI.h APIs. To enhance its functionality with real-time data, GPSafety also integrates information from the Toronto Police Service, made accessible via the tpscalls.live API developed by R. Durant [(R. Durant, “Tpscalls.live,” https://www.tpscalls.live/, accessed Mar. 10, 2025)]. Unlike conventional navigation tools that focus on the fastest routes, GPSafety prioritizes user safety.
 
 ![GPSafety](https://github.com/user-attachments/assets/c467b640-9c80-4920-adc8-99503e42121e)
 
@@ -8,8 +8,20 @@ The project was developed in four milestone phases, each building on the previou
 - **Milestone 1: Data Structures**
   - Built efficient map-loading functions from OpenStreetMap data.
 - **Milestone 2: Graphics**
-  - Designed an interactive UI using GTK and UofT's EZGL renderer, with a focus on simplicity, clarity and quick access to safety features.
-  - ![gpsDarkMode](https://github.com/user-attachments/assets/543b183b-15d0-42e9-bf01-913d6232987e) ![gpsHealth](https://github.com/user-attachments/assets/d2e06894-c03e-46e5-a5c5-010a70a15e8e)
+  - Designed an interactive user interface using GTK and UofT's EZGL renderer, with a focus on simplicity, clarity and quick access to safety features.
+    - Colour-coded elements and dark mode support for improved visibility
+    - ![gpsDarkMode](https://github.com/user-attachments/assets/543b183b-15d0-42e9-bf01-913d6232987e)
+    - Customized icons to enhance visual clarity and user recognition
+    - ![Icons](https://github.com/user-attachments/assets/fb3952c7-b0ac-43f4-98ef-83ccefa0a88a)
+    - Point of interest (POI) buttons for quick access to notable locations
+    - ![gpsHealth](https://github.com/user-attachments/assets/d2e06894-c03e-46e5-a5c5-010a70a15e8e)
+    - Hamburger menu for zooming, switching cities, and accessing the help menu
+    - ![HamburgerMenu](https://github.com/user-attachments/assets/f35633eb-20a6-4447-932e-63b7398c0327)
+    - Search bar with autocomplete for streets, intersections, and routes
+    - ![Street](https://github.com/user-attachments/assets/3ca572ed-b47d-4bdb-927c-a1405137afa9)![Intersection](https://github.com/user-attachments/assets/66d43dfe-46dc-4dda-b564-a84968a5c139)![Route](https://github.com/user-attachments/assets/f72b6f73-d0c9-48ac-92be-fa8b96fcc5cd)
+    - Displays easy-to-follow driving directions from one point to another
+    - ![Directions](https://github.com/user-attachments/assets/d6fd492b-8fd6-4259-b9c9-7a966821fef4)
+    - Map scale included for spatial reference
 - **Milestone 3: Path Finding**
   - Used A* algorithm to compute shortest paths between intersections.
 - **Milestone 4: Courier Optimization**
@@ -18,7 +30,7 @@ The project was developed in four milestone phases, each building on the previou
 
 ## Safety Alerts
 ![gpsSafe](https://github.com/user-attachments/assets/93e94ebb-c9cf-4ad9-92b5-0e99ce584a68)
-Real-time crime alerts pulled hourly from the TPS Calls API are shown directly on the map as hotspot overlays. R. Durant, “Tpscalls.live,” tpscalls.live, https://www.tpscalls.live/ (accessed Mar. 10, 2025).
+Real-time crime alerts pulled hourly from the TPS Calls API are shown directly on the map as hotspot overlays.
 
 ## Future Development
 - **Live Route Sharing**
