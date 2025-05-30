@@ -23,6 +23,7 @@ The project was developed in four milestone phases, each building on the previou
       <img src="https://github.com/user-attachments/assets/f35633eb-20a6-4447-932e-63b7398c0327" width="500"/>
 
     - Ability to switch between different cities
+      
       <img src="https://github.com/user-attachments/assets/8efbddb6-60ee-4e0d-b2f1-e7d7ed94c065" width="500"/>
 
     - Search bar with autocomplete for streets, intersections, and routes
@@ -48,6 +49,7 @@ The project was developed in four milestone phases, each building on the previou
 ## 🚨 Safety Alerts
 GPSafety is designed with user safety as a top priority, offering several features to help users stay aware and make informed decisions:
 - **Real-time crime alerts** are pulled hourly from the TPSCalls API and displayed as hotspot overlays directly on the map, highlighting areas with recent activity.
+  
     <img src="https://github.com/user-attachments/assets/f7eae640-cf56-41fc-a406-c2de55b06bdf" width="500"/>
   
 - A **safety toggle button** allows users to turn hotspot visibility on or off, giving them control over when they want to view crime data.
@@ -55,9 +57,11 @@ GPSafety is designed with user safety as a top priority, offering several featur
   <img src="https://github.com/user-attachments/assets/98998115-1816-45fb-8ee8-81447bd7191f" width="500"/>
   
 - **Interactive crime icons** let users click for detailed information about individual incidents, including the type of crime, date, time, location, and data source.
+  
   <img src="https://github.com/user-attachments/assets/93e94ebb-c9cf-4ad9-92b5-0e99ce584a68" width="500"/>
   
 - The Points of Interest (POI) menu includes a dedicated **Health & Emergency** category, making it easy to locate nearby hospitals, police stations, fire departments, pharmacies etc.
+  
   <img src="https://github.com/user-attachments/assets/62b28054-f552-4a82-9ecd-145bbb0a25dc" width="500"/>
   
 - When users click on or near any intersection, the system automatically displays the nearest pharmacy
