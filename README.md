@@ -1,9 +1,9 @@
-# GPSafety
+# GPSafety 📌
 GPSafety is a Geographic Information System (GIS) project developed in C++ that also highlights crime hotspots across Toronto. It is built off the OpenStreetMap Database via their OSMDatabaseAPI.h and StreetsDatabaseAPI.h APIs. To enhance its functionality with real-time data, GPSafety also integrates information from the Toronto Police Service, made accessible via the tpscalls.live API developed by R. Durant [(R. Durant, “Tpscalls.live,” https://www.tpscalls.live/, accessed Mar. 10, 2025)]. Unlike conventional navigation tools that focus on the fastest routes, GPSafety prioritizes user safety.
 
 ![GPSafety](https://github.com/user-attachments/assets/c467b640-9c80-4920-adc8-99503e42121e)
 
-## Features
+## 🔍 Features
 The project was developed in four milestone phases, each building on the previous:
 - **Milestone 1: Data Structures**
   - Built efficient map-loading functions from OpenStreetMap data.
@@ -45,7 +45,7 @@ The project was developed in four milestone phases, each building on the previou
     - The best route from Simulated Annealing is further improved with a Two-Opt optimization routine, which reduces detours and smooths out inefficient connections.
   - Together, these techniques power a robust and optimized routing system tailored for real-world courier scenarios involving complex constraints and time-sensitive deliveries.
 
-## Safety Alerts
+## 🚨 Safety Alerts
 GPSafety is designed with user safety as a top priority, offering several features to help users stay aware and make informed decisions:
 - **Real-time crime alerts** are pulled hourly from the TPSCalls API and displayed as hotspot overlays directly on the map, highlighting areas with recent activity.
     <img src="https://github.com/user-attachments/assets/f7eae640-cf56-41fc-a406-c2de55b06bdf" width="500"/>
@@ -65,7 +65,7 @@ GPSafety is designed with user safety as a top priority, offering several featur
 
   <img src="https://github.com/user-attachments/assets/ad945d20-f9db-4f7b-9435-209757d7f591" width="500"/>
 
-## Future Development
+## ⚒️ Future Development
 - **Live Route Sharing**
   - Allow users to share their active path with friends/family in real-time.
 - **Global Crime Integration**
