@@ -74,3 +74,6 @@ GPSafety is designed with user safety as a top priority, offering several featur
   - Allow users to share their active path with friends/family in real-time.
 - **Global Crime Integration**
   - Expand safety feature beyond Toronto to other cities.
+
+# Academic Integrity Notice
+This project was created as coursework for ECE297 at the University of Toronto. The documentation is provided for reference only and are not licensed for use, modification, or distribution. All rights reserved.
